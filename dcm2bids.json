@@ -1,0 +1,77 @@
+{
+   "descriptions": [
+     {
+       "datatype": "anat",
+       "suffix": "T1w",
+       "criteria": {
+         "SeriesDescription": "SAG FSPGR 3D*"
+       }
+     },
+     {
+       "datatype": "func",
+       "suffix": "bold",
+       "custom_entities": "task-resting",
+       "criteria": {
+         "SeriesDescription": "fMRI Resting*"
+       }
+     },
+     {
+      "datatype": "func",
+      "suffix": "bold",
+      "custom_entities": "task-motion1",
+      "criteria": {
+        "SeriesDescription": "fMRI Run 1*"
+      }
+    },
+    {
+      "datatype": "func",
+      "suffix": "bold",
+      "custom_entities": "task-motion2",
+      "criteria": {
+        "SeriesDescription": "fMRI Run 2*"
+      }
+    },
+    {
+      "datatype": "func",
+      "suffix": "bold",
+      "custom_entities": "task-locMT",
+      "criteria": {
+        "SeriesDescription": "fMRI V5/MT*"
+      }
+    },
+    {
+      "datatype": "func",
+      "suffix": "bold",
+      "custom_entities": "task-locObj",
+      "criteria": {
+        "SeriesDescription": "fMRI Object*"
+      }
+    },
+    {
+      "datatype": "func",
+      "suffix": "bold",
+      "custom_entities": "task-retino",
+      "criteria": {
+        "SeriesDescription": "fMRI Retino*"
+      }
+    },
+    {
+      "datatype": "fmap",
+      "suffix": "epi",
+      "custom_entities": "dir-PA",
+      "criteria": {
+        "SeriesDescription": "fMRI TopUp*",
+        "PhaseEncodingDirection": "j"
+      }
+    },
+    {
+      "datatype": "fmap",
+      "suffix": "epi",
+      "custom_entities": "dir-AP",
+      "criteria": {
+        "SeriesDescription": "fMRI TopUp*",
+        "PhaseEncodingDirection": "j-"
+      }
+    }
+   ]
+}
