@@ -1,0 +1,334 @@
+filename,type,description,phase_dir,phase_ge,acqtime
+sub-04_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT- HyperMEPI multiphase,j-,Unflipped,11:31:52.000000
+sub-04_acq-locObj_dir-PA_epi.json,fmap,fMRI Object- HyperMEPI multiphase,j-,Unflipped,11:35:57.000000
+sub-04_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1 - HyperMEPI multiphase,j-,Unflipped,11:11:33.000000
+sub-04_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2 - HyperMEPI multiphase,j-,Unflipped,11:19:36.000000
+sub-04_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic - HyperMEPI multiphase,j-,Unflipped,11:39:39.000000
+sub-04_dir-AP_epi.json,fmap,fMRI TopUp - HyperMEPI multiphase,j,Flipped,11:30:27.000000
+sub-04_task-locMT_bold.json,func,fMRI V5/MT- HyperMEPI multiphase,j-,Unflipped,11:31:52.000000
+sub-04_task-locObj_bold.json,func,fMRI Object- HyperMEPI multiphase,j-,Unflipped,11:35:57.000000
+sub-04_task-motion1_bold.json,func,fMRI Run 1 - HyperMEPI multiphase,j-,Unflipped,11:11:33.000000
+sub-04_task-motion2_bold.json,func,fMRI Run 2 - HyperMEPI multiphase,j-,Unflipped,11:19:36.000000
+sub-04_task-retino_bold.json,func,fMRI Retinotoptic - HyperMEPI multiphase,j-,Unflipped,11:39:39.000000
+sub-05_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,15:34:40.000000
+sub-05_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,15:38:6.000000
+sub-05_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,15:15:58.000000
+sub-05_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,15:22:11.000000
+sub-05_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,15:41:47.000000
+sub-05_dir-AP_epi.json,fmap,fMRI TopUp,j,Flipped,15:33:2.000000
+sub-05_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,15:34:40.000000
+sub-05_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,15:38:6.000000
+sub-05_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,15:15:58.000000
+sub-05_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,15:22:11.000000
+sub-05_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,15:41:47.000000
+sub-06_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,14:23:51.000000
+sub-06_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,14:28:7.000000
+sub-06_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,14:04:47.000000
+sub-06_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,14:11:36.000000
+sub-06_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,14:36:25.000000
+sub-06_dir-AP_epi.json,fmap,fMRI TopUp,j,Flipped,14:26:42.000000
+sub-06_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,14:23:51.000000
+sub-06_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,14:28:7.000000
+sub-06_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,14:04:47.000000
+sub-06_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,14:11:36.000000
+sub-06_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,14:36:25.000000
+sub-07_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,11:24:48.000000
+sub-07_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,11:28:36.000000
+sub-07_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,10:58:51.000000
+sub-07_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,11:06:0.000000
+sub-07_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,11:32:2.000000
+sub-07_dir-AP_epi.json,fmap,fMRI TopUp,j,Flipped,11:18:44.000000
+sub-07_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,11:24:48.000000
+sub-07_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,11:28:36.000000
+sub-07_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,10:58:51.000000
+sub-07_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,11:06:0.000000
+sub-07_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,11:32:2.000000
+sub-08_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,11:26:50.000000
+sub-08_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,11:18:4.000000
+sub-08_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,10:56:30.000000
+sub-08_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,11:02:49.000000
+sub-08_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,11:21:32.000000
+sub-08_dir-AP_epi.json,fmap,fMRI TopUp,j,Flipped,11:14:6.000000
+sub-08_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,11:26:50.000000
+sub-08_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,11:18:4.000000
+sub-08_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,10:56:30.000000
+sub-08_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,11:02:49.000000
+sub-08_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,11:21:32.000000
+sub-09_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,10:29:38.000000
+sub-09_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,10:19:30.000000
+sub-09_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,09:58:17.000000
+sub-09_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,10:04:16.000000
+sub-09_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,10:22:52.000000
+sub-09_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,10:18:19.000000
+sub-09_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,10:29:38.000000
+sub-09_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,10:19:30.000000
+sub-09_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,09:58:17.000000
+sub-09_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,10:04:16.000000
+sub-09_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,10:22:52.000000
+sub-10_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,09:22:5.000000
+sub-10_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,09:13:5.000000
+sub-10_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,08:52:22.000000
+sub-10_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,08:58:51.000000
+sub-10_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,09:16:42.000000
+sub-10_dir-AP_epi.json,fmap,fMRI TopUp,j,Flipped,09:11:10.000000
+sub-10_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,09:22:5.000000
+sub-10_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,09:13:5.000000
+sub-10_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,08:52:22.000000
+sub-10_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,08:58:51.000000
+sub-10_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,09:16:42.000000
+sub-11_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,13:22:1.000000
+sub-11_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,13:13:49.000000
+sub-11_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,13:01:41.000000
+sub-11_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,13:06:59.000000
+sub-11_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,13:17:10.000000
+sub-11_dir-AP_epi.json,fmap,fMRI TopUp,j,Flipped,13:12:38.000000
+sub-11_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,13:22:1.000000
+sub-11_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,13:13:49.000000
+sub-11_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,13:01:41.000000
+sub-11_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,13:06:59.000000
+sub-11_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,13:17:10.000000
+sub-12_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,15:47:21.000000
+sub-12_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,15:38:54.000000
+sub-12_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,15:24:40.000000
+sub-12_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,15:31:34.000000
+sub-12_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j-,Unflipped,15:50:40.000000
+sub-12_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,15:42:19.000000
+sub-12_dir-AP_epi.json,fmap,fMRI TopUp,j,Flipped,15:37:40.000000
+sub-12_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,15:47:21.000000
+sub-12_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,15:38:54.000000
+sub-12_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,15:24:40.000000
+sub-12_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,15:31:34.000000
+sub-12_task-resting_bold.json,func,fMRI Resting State,j-,Unflipped,15:50:40.000000
+sub-12_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,15:42:19.000000
+sub-13_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,15:46:53.000000
+sub-13_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,15:35:37.000000
+sub-13_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,15:21:16.000000
+sub-13_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,15:27:31.000000
+sub-13_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j-,Unflipped,15:50:21.000000
+sub-13_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,15:41:24.000000
+sub-13_dir-AP_epi.json,fmap,fMRI TopUp,j,Flipped,15:33:0.000000
+sub-13_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,15:46:53.000000
+sub-13_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,15:35:37.000000
+sub-13_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,15:21:16.000000
+sub-13_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,15:27:31.000000
+sub-13_task-resting_bold.json,func,fMRI Resting State,j-,Unflipped,15:50:21.000000
+sub-13_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,15:41:24.000000
+sub-15_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,15:38:22.000000
+sub-15_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,15:29:35.000000
+sub-15_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,15:16:42.000000
+sub-15_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,15:22:6.000000
+sub-15_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j-,Unflipped,15:41:56.000000
+sub-15_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,15:33:4.000000
+sub-15_dir-AP_epi.json,fmap,fMRI TopUp,j,Flipped,15:28:1.000000
+sub-15_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,15:38:22.000000
+sub-15_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,15:29:35.000000
+sub-15_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,15:16:42.000000
+sub-15_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,15:22:6.000000
+sub-15_task-resting_bold.json,func,fMRI Resting State,j-,Unflipped,15:41:56.000000
+sub-15_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,15:33:4.000000
+sub-16_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,15:25:53.000000
+sub-16_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,15:17:5.000000
+sub-16_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,15:04:28.000000
+sub-16_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,15:10:14.000000
+sub-16_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j-,Unflipped,15:29:26.000000
+sub-16_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,15:20:42.000000
+sub-16_dir-AP_epi.json,fmap,fMRI TopUp,j,Flipped,15:15:47.000000
+sub-16_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,15:25:53.000000
+sub-16_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,15:17:5.000000
+sub-16_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,15:04:28.000000
+sub-16_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,15:10:14.000000
+sub-16_task-resting_bold.json,func,fMRI Resting State,j-,Unflipped,15:29:26.000000
+sub-16_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,15:20:42.000000
+sub-17_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j-,Unflipped,12:41:45.000000
+sub-17_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j-,Unflipped,12:32:44.000000
+sub-17_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j-,Unflipped,12:19:23.000000
+sub-17_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j-,Unflipped,12:25:1.000000
+sub-17_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j-,Unflipped,12:45:29.000000
+sub-17_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j-,Unflipped,12:36:28.000000
+sub-17_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,12:31:23.000000
+sub-17_task-locMT_bold.json,func,fMRI V5/MT,j-,Unflipped,12:41:45.000000
+sub-17_task-locObj_bold.json,func,fMRI Object,j-,Unflipped,12:32:44.000000
+sub-17_task-motion1_bold.json,func,fMRI Run 1,j-,Unflipped,12:19:23.000000
+sub-17_task-motion2_bold.json,func,fMRI Run 2,j-,Unflipped,12:25:1.000000
+sub-17_task-resting_bold.json,func,fMRI Resting State,j-,Unflipped,12:45:29.000000
+sub-17_task-retino_bold.json,func,fMRI Retinotoptic,j-,Unflipped,12:36:28.000000
+sub-18_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,15:00:44.000000
+sub-18_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,14:36:39.000000
+sub-18_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,14:25:49.000000
+sub-18_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,14:46:13.000000
+sub-18_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,15:07:45.000000
+sub-18_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,14:55:7.000000
+sub-18_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,15:16:14.000000
+sub-18_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,15:00:44.000000
+sub-18_task-locObj_bold.json,func,fMRI Object,j,Flipped,14:36:39.000000
+sub-18_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,14:25:49.000000
+sub-18_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,14:46:13.000000
+sub-18_task-resting_bold.json,func,fMRI Resting State,j,Flipped,15:07:45.000000
+sub-18_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,14:55:7.000000
+sub-19_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,10:02:8.000000
+sub-19_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,09:53:26.000000
+sub-19_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,09:39:57.000000
+sub-19_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,09:46:10.000000
+sub-19_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,10:05:45.000000
+sub-19_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,09:56:57.000000
+sub-19_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,09:51:51.000000
+sub-19_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,10:02:8.000000
+sub-19_task-locObj_bold.json,func,fMRI Object,j,Flipped,09:53:26.000000
+sub-19_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,09:39:57.000000
+sub-19_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,09:46:10.000000
+sub-19_task-resting_bold.json,func,fMRI Resting State,j,Flipped,10:05:45.000000
+sub-19_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,09:56:57.000000
+sub-20_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,12:59:17.000000
+sub-20_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,12:50:34.000000
+sub-20_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,12:37:58.000000
+sub-20_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,12:43:31.000000
+sub-20_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,13:02:58.000000
+sub-20_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,12:54:8.000000
+sub-20_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,12:49:6.000000
+sub-20_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,12:59:17.000000
+sub-20_task-locObj_bold.json,func,fMRI Object,j,Flipped,12:50:34.000000
+sub-20_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,12:37:58.000000
+sub-20_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,12:43:31.000000
+sub-20_task-resting_bold.json,func,fMRI Resting State,j,Flipped,13:02:58.000000
+sub-20_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,12:54:8.000000
+sub-21_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,13:17:39.000000
+sub-21_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,13:08:50.000000
+sub-21_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,12:55:39.000000
+sub-21_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,13:01:30.000000
+sub-21_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,13:21:20.000000
+sub-21_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,13:12:16.000000
+sub-21_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,13:06:58.000000
+sub-21_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,13:17:39.000000
+sub-21_task-locObj_bold.json,func,fMRI Object,j,Flipped,13:08:50.000000
+sub-21_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,12:55:39.000000
+sub-21_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,13:01:30.000000
+sub-21_task-resting_bold.json,func,fMRI Resting State,j,Flipped,13:21:20.000000
+sub-21_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,13:12:16.000000
+sub-22_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,15:26:2.000000
+sub-22_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,15:15:9.000000
+sub-22_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,15:02:8.000000
+sub-22_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,15:07:22.000000
+sub-22_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,15:29:33.000000
+sub-22_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,15:18:53.000000
+sub-22_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,15:13:58.000000
+sub-22_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,15:26:2.000000
+sub-22_task-locObj_bold.json,func,fMRI Object,j,Flipped,15:15:9.000000
+sub-22_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,15:02:8.000000
+sub-22_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,15:07:22.000000
+sub-22_task-resting_bold.json,func,fMRI Resting State,j,Flipped,15:29:33.000000
+sub-22_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,15:18:53.000000
+sub-23_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,13:01:10.000000
+sub-23_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,12:52:43.000000
+sub-23_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,12:39:56.000000
+sub-23_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,12:45:20.000000
+sub-23_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,13:04:40.000000
+sub-23_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,12:56:6.000000
+sub-23_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,12:50:48.000000
+sub-23_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,13:01:10.000000
+sub-23_task-locObj_bold.json,func,fMRI Object,j,Flipped,12:52:43.000000
+sub-23_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,12:39:56.000000
+sub-23_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,12:45:20.000000
+sub-23_task-resting_bold.json,func,fMRI Resting State,j,Flipped,13:04:40.000000
+sub-23_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,12:56:6.000000
+sub-24_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,16:36:44.000000
+sub-24_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,16:27:37.000000
+sub-24_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,16:14:39.000000
+sub-24_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,16:20:18.000000
+sub-24_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,16:45:40.000000
+sub-24_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,16:40:32.000000
+sub-24_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,16:26:8.000000
+sub-24_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,16:36:44.000000
+sub-24_task-locObj_bold.json,func,fMRI Object,j,Flipped,16:27:37.000000
+sub-24_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,16:14:39.000000
+sub-24_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,16:20:18.000000
+sub-24_task-resting_bold.json,func,fMRI Resting State,j,Flipped,16:45:40.000000
+sub-24_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,16:40:32.000000
+sub-25_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,14:20:5.000000
+sub-25_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,14:11:59.000000
+sub-25_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,13:59:48.000000
+sub-25_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,14:05:1.000000
+sub-25_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,14:23:43.000000
+sub-25_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,14:15:15.000000
+sub-25_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,14:10:36.000000
+sub-25_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,14:20:5.000000
+sub-25_task-locObj_bold.json,func,fMRI Object,j,Flipped,14:11:59.000000
+sub-25_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,13:59:48.000000
+sub-25_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,14:05:1.000000
+sub-25_task-resting_bold.json,func,fMRI Resting State,j,Flipped,14:23:43.000000
+sub-25_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,14:15:15.000000
+sub-26_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,12:55:23.000000
+sub-26_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,12:51:34.000000
+sub-26_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,12:37:56.000000
+sub-26_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,12:44:39.000000
+sub-26_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,12:02:42.000000
+sub-26_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,12:50:29.000000
+sub-26_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,12:55:23.000000
+sub-26_task-locObj_bold.json,func,fMRI Object,j,Flipped,12:51:34.000000
+sub-26_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,12:37:56.000000
+sub-26_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,12:44:39.000000
+sub-26_task-resting_bold.json,func,fMRI Resting State,j,Flipped,12:02:42.000000
+sub-27_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,15:33:55.000000
+sub-27_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,15:24:58.000000
+sub-27_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,15:11:57.000000
+sub-27_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,15:17:32.000000
+sub-27_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,15:37:10.000000
+sub-27_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,15:28:26.000000
+sub-27_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,15:23:47.000000
+sub-27_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,15:33:55.000000
+sub-27_task-locObj_bold.json,func,fMRI Object,j,Flipped,15:24:58.000000
+sub-27_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,15:11:57.000000
+sub-27_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,15:17:32.000000
+sub-27_task-resting_bold.json,func,fMRI Resting State,j,Flipped,15:37:10.000000
+sub-27_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,15:28:26.000000
+sub-28_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,12:40:59.000000
+sub-28_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,12:32:4.000000
+sub-28_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,12:19:29.000000
+sub-28_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,12:25:21.000000
+sub-28_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,12:44:11.000000
+sub-28_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,12:35:25.000000
+sub-28_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,12:30:46.000000
+sub-28_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,12:40:59.000000
+sub-28_task-locObj_bold.json,func,fMRI Object,j,Flipped,12:32:4.000000
+sub-28_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,12:19:29.000000
+sub-28_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,12:25:21.000000
+sub-28_task-resting_bold.json,func,fMRI Resting State,j,Flipped,12:44:11.000000
+sub-28_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,12:35:25.000000
+sub-29_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,14:09:54.000000
+sub-29_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,14:00:57.000000
+sub-29_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,13:48:30.000000
+sub-29_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,13:54:1.000000
+sub-29_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,14:13:39.000000
+sub-29_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,14:04:55.000000
+sub-29_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,13:59:15.000000
+sub-29_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,14:09:54.000000
+sub-29_task-locObj_bold.json,func,fMRI Object,j,Flipped,14:00:57.000000
+sub-29_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,13:48:30.000000
+sub-29_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,13:54:1.000000
+sub-29_task-resting_bold.json,func,fMRI Resting State,j,Flipped,14:13:39.000000
+sub-29_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,14:04:55.000000
+sub-30_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,10:30:57.000000
+sub-30_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,10:22:11.000000
+sub-30_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,10:09:19.000000
+sub-30_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,10:14:39.000000
+sub-30_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,10:34:9.000000
+sub-30_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,10:25:30.000000
+sub-30_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,10:20:54.000000
+sub-30_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,10:30:57.000000
+sub-30_task-locObj_bold.json,func,fMRI Object,j,Flipped,10:22:11.000000
+sub-30_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,10:09:19.000000
+sub-30_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,10:14:39.000000
+sub-30_task-resting_bold.json,func,fMRI Resting State,j,Flipped,10:34:9.000000
+sub-30_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,10:25:30.000000
+sub-31_acq-locMT_dir-PA_epi.json,fmap,fMRI V5/MT,j,Flipped,11:12:37.000000
+sub-31_acq-locObj_dir-PA_epi.json,fmap,fMRI Object,j,Flipped,11:04:3.000000
+sub-31_acq-motion1_dir-PA_epi.json,fmap,fMRI Run 1,j,Flipped,10:51:17.000000
+sub-31_acq-motion2_dir-PA_epi.json,fmap,fMRI Run 2,j,Flipped,10:56:32.000000
+sub-31_acq-resting_dir-PA_epi.json,fmap,fMRI Resting State,j,Flipped,11:16:7.000000
+sub-31_acq-retino_dir-PA_epi.json,fmap,fMRI Retinotoptic,j,Flipped,11:07:14.000000
+sub-31_dir-AP_epi.json,fmap,fMRI TopUp,j-,Unflipped,11:02:19.000000
+sub-31_task-locMT_bold.json,func,fMRI V5/MT,j,Flipped,11:12:37.000000
+sub-31_task-locObj_bold.json,func,fMRI Object,j,Flipped,11:04:3.000000
+sub-31_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,10:51:17.000000
+sub-31_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,10:56:32.000000
+sub-31_task-resting_bold.json,func,fMRI Resting State,j,Flipped,11:16:7.000000
+sub-31_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,11:07:14.000000
