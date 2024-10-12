@@ -12,3 +12,4 @@ wb_command -cifti-convert -from-nifti <nifti-in> <cifti-template> <cifti-out>
 
 # average cope images from run 1 or at the group level: 
 wb_command -cifti-average <cifti-out> -cifti <cifti-1-in> -cifti <cifti-2-in>
+
