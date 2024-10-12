@@ -332,3 +332,4 @@ sub-31_task-motion1_bold.json,func,fMRI Run 1,j,Flipped,10:51:17.000000
 sub-31_task-motion2_bold.json,func,fMRI Run 2,j,Flipped,10:56:32.000000
 sub-31_task-resting_bold.json,func,fMRI Resting State,j,Flipped,11:16:7.000000
 sub-31_task-retino_bold.json,func,fMRI Retinotoptic,j,Flipped,11:07:14.000000
+
