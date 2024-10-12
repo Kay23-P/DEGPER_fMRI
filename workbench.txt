@@ -1,0 +1,14 @@
+# smooth data
+wb_command -cifti-smoothing sub-13_motion1_bold.dtseries.nii 2 5 COLUMN sub-13_motion1_bold_smooth.dtseries.nii -left-surface S1200.L.midthickness_MSMAll.32k_fs_LR.surf.gii -right-surface S1200.R.midthickness_MSMAll.32k_fs_LR.surf.gii 
+
+# convert to nifti
+wb_command -cifti-convert -to-nifti sub-13_motion1_bold_smooth.dtseries.nii sub-13_motion1_bold.nii.gz 
+
+# remove 20 dummies
+fslroi sub-13_motion1_bold.nii.gz sub-13_motion1_drop20.nii.gz 20 -1 
+
+# convert cope images in nifti format back to cifti
+wb_command -cifti-convert -from-nifti <nifti-in> <cifti-template> <cifti-out>
+
+# average cope images from run 1 or at the group level: 
+wb_command -cifti-average <cifti-out> -cifti <cifti-1-in> -cifti <cifti-2-in>
